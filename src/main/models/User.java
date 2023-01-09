@@ -11,6 +11,7 @@ public class User {
     public User() {
 
     }
+
     public User(Long id, String login, String pass) {
         this.id = id;
         this.username = login;
